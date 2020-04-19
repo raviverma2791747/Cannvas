@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587289340 source:h:\gui\main.cpp
+	<iostream>
+	"include\canvas.h"
+	<windows.h>
+
+1587289683 source:h:\gui\src\canvas.cpp
+	"canvas.h"
+	<iostream>
+
+1587288732 h:\gui\include\canvas.h
+
