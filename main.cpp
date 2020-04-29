@@ -18,6 +18,7 @@ int main()
         cout<<"[3]Draw a Square\n";
         cout<<"[4]Draw a Circle\n";
         cout<<"[5]Draw Multiple Shapes\n";
+        cout<<"[6]exit\n";
         cout<<"::";
         cin>>choice;
         switch(choice)
