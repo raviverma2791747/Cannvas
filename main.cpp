@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     int choice = 0;
-    while(choice != 9)
+    while(choice != 6)
     {
         cout<<"=============================================================\n";
         cout<<"                   MAIN MENU                                 \n";
